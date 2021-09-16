@@ -8,6 +8,7 @@ input, div, h3, button, form {
 .form__container h3 {
     font-variant: all-small-caps;
     font-family: sans-serif;
+    font-size: 25px;
 }
 
 .form__container {

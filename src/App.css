@@ -23,6 +23,7 @@
   color: white;
   padding-top: 40px;
   box-sizing: border-box;
+  min-width: 300px;
 }
 
 .btn-default {
